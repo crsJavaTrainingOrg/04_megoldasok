@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Halozat
+comment1.params=adotorony
+comment1.target=boolean\ add(Adotorony)
+comment2.params=jel\ pluszkapacitas
+comment2.target=boolean\ addKapacitas(java.lang.String,\ int)
+comment3.params=minimumKapacitas
+comment3.target=int\ torles(int)
+comment4.params=xKoordinata\ yKoordinata\ sugar
+comment4.target=int\ getBeszelgetesekSzama(double,\ double,\ double)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tablazat
+comment1.params=csapatnevek
+comment1.target=Tablazat(java.util.ArrayList)
+comment2.params=csapat1Nev\ csapat2Nev\ gol1\ gol2
+comment2.target=void\ ertekeles(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=csapat
+comment3.target=void\ addCsapat(Csapat)
+numComments=4

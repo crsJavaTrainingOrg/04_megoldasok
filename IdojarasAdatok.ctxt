@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IdojarasAdatok
+comment1.params=napihomerseklet
+comment1.target=void\ addNap(NapiHomerseklet)
+comment2.params=
+comment2.target=double\ getKozephomerseklet()
+comment3.params=napihomerseklet
+comment3.target=boolean\ tulMeleg(NapiHomerseklet)
+numComments=4

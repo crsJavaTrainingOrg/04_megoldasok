@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Nyaklanc
+comment1.params=szin1\ szin2\ keresztmetszet1\ keresztmetszet2
+comment1.target=Nyaklanc(java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=Gyongy\ getUtolso()
+comment3.params=
+comment3.target=Gyongy\ getElso()
+comment4.params=kovetkezo
+comment4.target=boolean\ addGyongy(Gyongy)
+comment5.params=
+comment5.target=boolean\ ugyanannyi()
+comment6.params=minimumhosszusag
+comment6.target=boolean\ osszecsukhato(int)
+numComments=7
